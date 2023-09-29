@@ -36,16 +36,12 @@ In this project, I learned about handling process ID's and signals in Bash with 
 
 * **9. Process and PID file**
 
-  ![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/d8ecfe9109334898b9540ffd20cf64d1c06f0c09.jpg)
-
   * [100-process_and_pid_file](./100-process_and_pid_file): Bash script that creates the file `/var/run/myscript.pid` containing its PID and displays `To infinity and beyond` indefinitely.
   * Displays `I hate the kill command` upon receiving a `SIGTERM` signal.
   * Displays `Y U no love me?!` upon receiving a `SIGINT` signal.
   * Deletes the file `/var/run/myscript.pid` and terminates itself upon receiving the `SIGQUIT` or `SIGTERM` signal.
 
 * **10. Manage my process**
-
-   ![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/37975393ead381f4d27f268f7337c6d3013b4991.jpg)
 
   * [manage_my_process](./manage_my_process): Bash script that writes `I am alive!` to the file `/tmp/my_process` indefinitely.
     * Sleeps two seconds in between each write.
