@@ -36,7 +36,7 @@ In this project, I learned about handling process ID's and signals in Bash with 
 
 * **9. Process and PID file**
 
-  ![alt script](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/d8ecfe9109334898b9540ffd20cf64d1c06f0c09.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230929T120543Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=be8d728a0e32b0e0b04473f7dde67e9ad081b777a3cab43dca8ed365379341ae)
+  ![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/d8ecfe9109334898b9540ffd20cf64d1c06f0c09.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230929T120543Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=be8d728a0e32b0e0b04473f7dde67e9ad081b777a3cab43dca8ed365379341ae)
 
   * [100-process_and_pid_file](./100-process_and_pid_file): Bash script that creates the file `/var/run/myscript.pid` containing its PID and displays `To infinity and beyond` indefinitely.
   * Displays `I hate the kill command` upon receiving a `SIGTERM` signal.
@@ -45,7 +45,7 @@ In this project, I learned about handling process ID's and signals in Bash with 
 
 * **10. Manage my process**
 
-   ![alt script](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/37975393ead381f4d27f268f7337c6d3013b4991.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230929T120543Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=72840f6914435d34f94b2d82b64461c872b019a9d8d3f3c5199b43bad754b02f)
+   ![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/37975393ead381f4d27f268f7337c6d3013b4991.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230929T120543Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=72840f6914435d34f94b2d82b64461c872b019a9d8d3f3c5199b43bad754b02f)
 
   * [manage_my_process](./manage_my_process): Bash script that writes `I am alive!` to the file `/tmp/my_process` indefinitely.
     * Sleeps two seconds in between each write.
@@ -67,6 +67,7 @@ In this project, I learned about handling process ID's and signals in Bash with 
   * Otherwise, displays `Usage: manage_my_process {start|stop|restart}`.
 
 * **11. Zombie**
+
   ![alt text](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/zombie-seahorse-lauren-b.jpg)
 
   * [102-zombie.c](./102-zombie.c): C program that creates five zombie processes.
