@@ -8,8 +8,6 @@ _Note: Each Ruby script in the project matches regular expressions based on an a
 
 * **0. Simply matching School**
 
-  ![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/ec65557f0da1fbfbff6659413885e4d4822f5b1d.png)
-
   * [0-simply_match_school.rb](./0-simply_match_school.rb): Ruby script that matches the regular expression `School`.
 
 * **1. Repetition Token**
