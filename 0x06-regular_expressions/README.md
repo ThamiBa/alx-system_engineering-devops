@@ -7,6 +7,9 @@ In this project, I learned how to use regular expressions. All my regex is built
 _Note: Each Ruby script in the project matches regular expressions based on an argument passed to it via the command line._
 
 * **0. Simply matching School**
+
+  ![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/ec65557f0da1fbfbff6659413885e4d4822f5b1d.png)
+
   * [0-simply_match_school.rb](./0-simply_match_school.rb): Ruby script that matches the regular expression `School`.
 
 * **1. Repetition Token**
@@ -29,6 +32,9 @@ _Note: Each Ruby script in the project matches regular expressions based on an a
   * [6-phone_number.rb](./6-phone_number.rb): Ruby script that matches a regular expression representing a 10-digit phone number.
 
 * **7. OMG WHY ARE YOU SHOUTING?**
+  
+  ![alt text](https://intranet.alxswe.com/images/contents/sysadmin/projects/78/shouting.jpg)
+
   * [7-OMG_WHY_ARE_YOU_SHOUTING.rb](./7-OMG_WHY_ARE_YOU_SHOUTING.rb): Ruby script that matches regular expressions of uppercase letters.
 
 * **8. Textme**
