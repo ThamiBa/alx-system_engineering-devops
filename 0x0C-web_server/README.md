@@ -4,12 +4,13 @@
 
 _For this project, we expect you to look at this concept:_
 
-- [What is a Child Process?](https://intranet.alxswe.com/concepts/110)
-![Web Server](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/266/8Gu52Qv.png)
+> [What is a Child Process?](https://intranet.alxswe.com/concepts/110)
+> [Web Server](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/266/8Gu52Qv.png)
 
 ## Background Context
 
-![Web Sever Video](https://www.youtube.com/watch?v=AZg4uJkEa-4)
+> [Web Sever Video](https://www.youtube.com/watch?v=AZg4uJkEa-4)
+
 In this project, some of the tasks will be graded on 2 aspects:
 
 1. Is your `web-01` server configured according to requirements
@@ -31,7 +32,8 @@ sylvain@ubuntu
 As you can tell, I am not using `emacs` to perform the task in my answer file. This exercise is aiming at training you on automating your work. If you can automate tasks that you do manually, you can then automate yourself out of repetitive tasks and focus your energy on something more interesting. For an [SRE](https://www.atlassian.com/incident-management/devops/sre), that comes very handy when there are hundreds or thousands of servers to manage, the work cannot be only done manually. Note that the checker will execute your script as the `root` user, you do not need to use the `sudo` command.
 
 A good Software Engineer is a [lazy Software Engineer](https://www.techwell.com/techwell-insights/2013/12/why-best-programmers-are-lazy-and-act-dumb).
- ![Lazy Dev](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/266/82VsYEC.jpg)
+
+> ![Lazy Dev](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/266/82VsYEC.jpg)
 
 Tips: to test your answer Bash script, feel free to reproduce the checker environment:
 
@@ -120,9 +122,8 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ### 1. Install nginx web server
 
-> ![Be or not to be](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/01cab59e881e31842b8d47a0974e8d3b6f0f2001.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231128T182659Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=783cca8969abb0ed222219a932de6d187d66c55b633011245b89eb18a3cf74d1)
 >Readme:
--[-y on apt-get command](https://askubuntu.com/questions/672892/what-does-y-mean-in-apt-get-y-install-command)
+> [-y on apt-get command](https://askubuntu.com/questions/672892/what-does-y-mean-in-apt-get-y-install-command)
 > Web servers are the piece of software generating and serving HTML pages, let’s install one!
 > **Repo:**
 >
