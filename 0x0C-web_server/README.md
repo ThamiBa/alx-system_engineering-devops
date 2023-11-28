@@ -5,7 +5,8 @@
 _For this project, we expect you to look at this concept:_
 
 > [What is a Child Process?](https://intranet.alxswe.com/concepts/110)
-> [Web Server](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/266/8Gu52Qv.png)
+
+ ![Web Server](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/266/8Gu52Qv.png)
 
 ## Background Context
 
