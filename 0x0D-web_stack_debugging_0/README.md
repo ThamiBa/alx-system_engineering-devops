@@ -5,7 +5,8 @@ projects, I was given broken/bugged webstacks in isolated containers,
 and tasked with fixing the web stack to a working state. For each
 task, I wrote a script automating the commands necessary to fix the
 web stack.
-![debbuging](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/265/uWLzjc8.jpg)
+
+> ![debbuging](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/265/uWLzjc8.jpg)
 
 ## Tasks :page_with_curl:
 
