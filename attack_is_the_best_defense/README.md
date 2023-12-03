@@ -103,6 +103,7 @@ Password-based authentication systems can be easily broken by using a dictionary
 - Install and use `hydra` to try to brute force the account `sylvain` via SSH on the Docker container
 - Because the Docker container is running locally, `hydra` should access the SSH account via IP `127.0.0.1` and port `2222`
 - Hint: the password is 11 characters long
+
 Once you found the password, share it in your answer file.
 
 > **Repo:**
