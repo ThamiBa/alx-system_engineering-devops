@@ -6,5 +6,5 @@ frontend www-https
 
 backend www-backend
         balance roundrobin
-        server 376710-web-01 34.227.89.102 check
-        server 376710-web-02 54.89.194.92 check
+        server 376710-web-01 34.227.89.102:80 check
+        server 376710-web-02 54.89.194.92:80 check
