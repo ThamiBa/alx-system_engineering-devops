@@ -7,7 +7,7 @@ server {
 
     # Use server IP as domain name
     server_name 34.227.89.102;
-
+gg
     # Customize HTTP response header
     add_header  X-Served-By 376710-web-01;
 
